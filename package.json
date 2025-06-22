@@ -1,0 +1,11 @@
+{
+  "name": "chess",
+  "version": "0.0.0",
+  "description": "Test chess game for Probability",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Bundling last commit...\" && mkdir -p dist && git archive -o dist/mod.zip HEAD"
+  },
+  "author": "Neftaly Hernandez <hello@probability.nz> (https://probability.nz/)",
+  "license": "ISC"
+}

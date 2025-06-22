@@ -1,0 +1,245 @@
+{
+  "probability": "2024-01-01",
+  "about": "Chess Set by Jarlan Perez (https://poly.pizza/m/00f9MZIwA1V) is licensed under CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/)",
+  "states": [
+    {
+      "name": "2 player",
+      "children": [
+        {
+          "name": "chess-board",
+          "src": "assets/Chess_Board.glb",
+          "position": [0, 0, 0],
+          "scale": [35, 35, 35],
+          "rotation": [0, 0, 0],
+          "locked": true,
+          "children": [
+            {
+              "name": "white-rook-1",
+              "src": "assets/White_Rook.glb",
+              "position": [-0.21, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-knight-1",
+              "src": "assets/White_Knight.glb",
+              "position": [-0.15, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-bishop-1",
+              "src": "assets/White_Bishop.glb",
+              "position": [-0.09, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-queen",
+              "src": "assets/White_Queen.glb",
+              "position": [-0.03, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-king",
+              "src": "assets/White_King.glb",
+              "position": [0.03, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-bishop-2",
+              "src": "assets/White_Bishop.glb",
+              "position": [0.09, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-knight-2",
+              "src": "assets/White_Knight.glb",
+              "position": [0.15, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-rook-2",
+              "src": "assets/White_Rook.glb",
+              "position": [0.21, 0.015, -0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-1",
+              "src": "assets/White_Pawn.glb",
+              "position": [-0.21, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-2",
+              "src": "assets/White_Pawn.glb",
+              "position": [-0.15, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-3",
+              "src": "assets/White_Pawn.glb",
+              "position": [-0.09, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-4",
+              "src": "assets/White_Pawn.glb",
+              "position": [-0.03, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-5",
+              "src": "assets/White_Pawn.glb",
+              "position": [0.03, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-6",
+              "src": "assets/White_Pawn.glb",
+              "position": [0.09, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-7",
+              "src": "assets/White_Pawn.glb",
+              "position": [0.15, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "white-pawn-8",
+              "src": "assets/White_Pawn.glb",
+              "position": [0.21, 0.015, -0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-1",
+              "src": "assets/Black_Pawn.glb",
+              "position": [-0.21, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-2",
+              "src": "assets/Black_Pawn.glb",
+              "position": [-0.15, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-3",
+              "src": "assets/Black_Pawn.glb",
+              "position": [-0.09, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-4",
+              "src": "assets/Black_Pawn.glb",
+              "position": [-0.03, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-5",
+              "src": "assets/Black_Pawn.glb",
+              "position": [0.03, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-6",
+              "src": "assets/Black_Pawn.glb",
+              "position": [0.09, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-7",
+              "src": "assets/Black_Pawn.glb",
+              "position": [0.15, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-pawn-8",
+              "src": "assets/Black_Pawn.glb",
+              "position": [0.21, 0.015, 0.15],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-rook-1",
+              "src": "assets/Black_Rook.glb",
+              "position": [-0.21, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-knight-1",
+              "src": "assets/Black_Knight.glb",
+              "position": [-0.15, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-bishop-1",
+              "src": "assets/Black_Bishop.glb",
+              "position": [-0.09, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-queen",
+              "src": "assets/Black_Queen.glb",
+              "position": [-0.03, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-king",
+              "src": "assets/Black_King.glb",
+              "position": [0.03, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-bishop-2",
+              "src": "assets/Black_Bishop.glb",
+              "position": [0.09, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-knight-2",
+              "src": "assets/Black_Knight.glb",
+              "position": [0.15, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            },
+            {
+              "name": "black-rook-2",
+              "src": "assets/Black_Rook.glb",
+              "position": [0.21, 0.015, 0.21],
+              "scale": [30, 30, 30],
+              "rotation": [0, 0, 0]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
