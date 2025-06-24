@@ -3,10 +3,10 @@
   "about": "Chess Set by Jarlan Perez (https://poly.pizza/m/00f9MZIwA1V) is licensed under CC-BY-3.0 (https://creativecommons.org/licenses/by/3.0/)",
   "states": [
     {
-      "name": "2 player",
+      "name": "2 Player",
       "children": [
         {
-          "name": "chess-board",
+          "name": "Chess Board",
           "src": "assets/Chess_Board.glb",
           "position": [0, 0, 0],
           "scale": [35, 35, 35],
@@ -14,224 +14,224 @@
           "locked": true,
           "children": [
             {
-              "name": "white-rook-1",
+              "name": "White Rook 1",
               "src": "assets/White_Rook.glb",
               "position": [-0.21, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-knight-1",
+              "name": "White Knight 1",
               "src": "assets/White_Knight.glb",
               "position": [-0.15, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
-            },
+              p  },
             {
-              "name": "white-bishop-1",
+              "name": "White Bishop 1",
               "src": "assets/White_Bishop.glb",
               "position": [-0.09, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-queen",
+              "name": "White Queen",
               "src": "assets/White_Queen.glb",
               "position": [-0.03, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-king",
+              "name": "White King",
               "src": "assets/White_King.glb",
               "position": [0.03, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-bishop-2",
+              "name": "White Bishop 2",
               "src": "assets/White_Bishop.glb",
               "position": [0.09, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-knight-2",
+              "name": "White Knight 2",
               "src": "assets/White_Knight.glb",
               "position": [0.15, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-rook-2",
+              "name": "White Rook 2",
               "src": "assets/White_Rook.glb",
               "position": [0.21, 0.015, -0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-1",
+              "name": "White Pawn 1",
               "src": "assets/White_Pawn.glb",
               "position": [-0.21, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-2",
+              "name": "White Pawn 2",
               "src": "assets/White_Pawn.glb",
               "position": [-0.15, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-3",
+              "name": "White Pawn 3",
               "src": "assets/White_Pawn.glb",
               "position": [-0.09, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-4",
+              "name": "White Pawn 4",
               "src": "assets/White_Pawn.glb",
               "position": [-0.03, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-5",
+              "name": "White Pawn 5",
               "src": "assets/White_Pawn.glb",
               "position": [0.03, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-6",
+              "name": "White Pawn 6",
               "src": "assets/White_Pawn.glb",
               "position": [0.09, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-7",
+              "name": "White Pawn 7",
               "src": "assets/White_Pawn.glb",
               "position": [0.15, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "white-pawn-8",
+              "name": "White Pawn 8",
               "src": "assets/White_Pawn.glb",
               "position": [0.21, 0.015, -0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-1",
+              "name": "Black Pawn 1",
               "src": "assets/Black_Pawn.glb",
               "position": [-0.21, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-2",
+              "name": "Black Pawn 2",
               "src": "assets/Black_Pawn.glb",
               "position": [-0.15, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-3",
+              "name": "Black Pawn 3",
               "src": "assets/Black_Pawn.glb",
               "position": [-0.09, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-4",
+              "name": "Black Pawn 4",
               "src": "assets/Black_Pawn.glb",
               "position": [-0.03, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-5",
+              "name": "Black Pawn 5",
               "src": "assets/Black_Pawn.glb",
               "position": [0.03, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-6",
+              "name": "Black Pawn 6",
               "src": "assets/Black_Pawn.glb",
               "position": [0.09, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-7",
+              "name": "Black Pawn 7",
               "src": "assets/Black_Pawn.glb",
               "position": [0.15, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-pawn-8",
+              "name": "Black Pawn 8",
               "src": "assets/Black_Pawn.glb",
               "position": [0.21, 0.015, 0.15],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-rook-1",
+              "name": "Black Rook 1",
               "src": "assets/Black_Rook.glb",
               "position": [-0.21, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-knight-1",
+              "name": "Black Knight 1",
               "src": "assets/Black_Knight.glb",
               "position": [-0.15, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-bishop-1",
+              "name": "Black Bishop 1",
               "src": "assets/Black_Bishop.glb",
               "position": [-0.09, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-queen",
+              "name": "Black Queen",
               "src": "assets/Black_Queen.glb",
               "position": [-0.03, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-king",
+              "name": "Black King",
               "src": "assets/Black_King.glb",
               "position": [0.03, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-bishop-2",
+              "name": "Black Bishop 2",
               "src": "assets/Black_Bishop.glb",
               "position": [0.09, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-knight-2",
+              "name": "Black Knight 2",
               "src": "assets/Black_Knight.glb",
               "position": [0.15, 0.015, 0.21],
               "scale": [30, 30, 30],
               "rotation": [0, 0, 0]
             },
             {
-              "name": "black-rook-2",
+              "name": "Black Rook 2",
               "src": "assets/Black_Rook.glb",
               "position": [0.21, 0.015, 0.21],
               "scale": [30, 30, 30],
